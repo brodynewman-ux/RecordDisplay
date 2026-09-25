@@ -7899,24 +7899,16 @@
   },
   {
     "albumNumber": 361,
-    "artist": "The Cramps",
-    "album": "Gravest Gravy",
-    "genre": "",
-    "year": "",
+    "artist": "Pink Floyd2",
+    "album": "Wish You Were Here",
+    "genre": "Rock",
+    "year": "2025",
     "tracks": [
-      "50th Anniversery",
-      "TV Set",
-      "Weekend On Mars",
-      "Twist & Shout",
-      "Jungle Hop",
-      "I Can't Hardly Stand It",
-      "Hungry",
-      "The Natives Are Restless",
-      "Domino",
-      "Can't Find My Mind",
-      "Rockin' Bones",
-      "Problem Child",
-      "Rocket In My Pocket"
+      "Shine On You Crazy Diamond (Parts 1-5)",
+      "Welcome To The Machine",
+      "Have A Cigar",
+      "Wish You Were Here",
+      "Shine On You Crazy Diamond (Parts 6-9)"
     ]
   },
   {
@@ -8486,7 +8478,7 @@
     ]
   },
   {
-    "albumNumber": 386,
+    "albumNumber": 385,
     "artist": "Billy Strings",
     "album": "So Much for Goodbyes",
     "genre": "Blue Grass",
@@ -8511,7 +8503,7 @@
     ]
   },
   {
-    "albumNumber": 387,
+    "albumNumber": 386,
     "artist": "Atmosphere",
     "album": "God Loves Ugly",
     "genre": "Hip Hop",
@@ -8535,67 +8527,6 @@
       "One of a Kind",
       "Blamegame",
       "Shrapnel"
-    ]
-  },
-  {
-    "albumNumber": 388,
-    "artist": "R.E.M.",
-    "album": "Out of Time",
-    "genre": "Rock",
-    "year": "1990",
-    "tracks": [
-      "Radio Song",
-      "Losing My Religion",
-      "Low",
-      "Near Wild Heaven",
-      "Endgame",
-      "Shiny Happy People",
-      "Belong",
-      "Half a World Away",
-      "Texarkana",
-      "Country Feedback",
-      "Me in Honey"
-    ]
-  },
-  {
-    "albumNumber": 389,
-    "artist": "Pink Floyd",
-    "album": "A Saucerful of Secrets",
-    "genre": "Rock",
-    "year": "1968",
-    "tracks": [
-      "Let There Be More Light",
-      "Remember a Day",
-      "Set the Controls for the Heart of the Sun",
-      "Corporal Clegg",
-      "A Saucerful of Secrets",
-      "See-Saw",
-      "Jugband Blues"
-    ]
-  },
-  {
-    "albumNumber": 390,
-    "artist": "Billy Strings",
-    "album": "Renewal",
-    "genre": "Blue Grass",
-    "year": "2025",
-    "tracks": [
-      "Know It All",
-      "Secrets",
-      "Love and Regret",
-      "Heartbeat of America",
-      "In the Morning Light",
-      "This Old World",
-      "Show Me the Door",
-      "Hellbender",
-      "Red Daisy",
-      "The Fire on My Tongue",
-      "Nothing's Working",
-      "Hide and Seek",
-      "Ice Bridges",
-      "Fire Line",
-      "Running the Route",
-      "Leaders"
     ]
   }
 ]
